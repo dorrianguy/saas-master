@@ -21,6 +21,11 @@
 - **Description:** Enterprise AI business intelligence that never sleeps. Real-time analytics and AI-powered insights with enterprise-grade security.
 - **Categories:** Enterprise AI, Business Intelligence, Analytics
 
+### LaunchFlow
+- **URL:** https://launchflow.dev
+- **Description:** Launch and optimize your apps with AI-powered App Store Optimization. Keyword tracking, review monitoring, and AI-generated optimization suggestions.
+- **Categories:** App Store Optimization, ASO, AI Analytics
+
 ### Nexus Studio (Coming Soon)
 - **Description:** AI-powered creative production suite. Video editing, text-to-speech, auto captioning, and multi-language dubbing.
 - **Categories:** AI Video, Creative Tools, Content Production

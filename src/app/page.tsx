@@ -14,6 +14,13 @@ const products = [
     features: ['Real-Time Analytics', 'AI-Powered Insights', 'Enterprise Security', 'Custom Integrations'],
   },
   {
+    name: 'LaunchFlow',
+    tagline: 'Launch and optimize your apps with AI-powered ASO.',
+    url: 'https://launchflow.dev',
+    gradient: 'from-green-500 to-emerald-500',
+    features: ['App Store Submission', 'AI-Powered ASO', 'Keyword Tracking', 'Review Monitoring'],
+  },
+  {
     name: 'Nexus Studio',
     tagline: 'AI-powered creative production suite.',
     url: '#',
@@ -61,7 +68,7 @@ export default function HomePage() {
         <h2 className="text-sm font-semibold uppercase tracking-widest text-zinc-500 mb-12 text-center">
           Our Products
         </h2>
-        <div className="grid md:grid-cols-3 gap-6">
+        <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
           {products.map((p) => (
             <a
               key={p.name}
