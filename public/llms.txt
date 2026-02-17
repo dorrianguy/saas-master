@@ -1,0 +1,26 @@
+# SaaS Master Enterprises
+
+> SaaS Master Enterprises builds enterprise-grade AI platforms for modern businesses.
+
+## Company
+
+- **Name:** SaaS Master Enterprises
+- **Location:** Woodbury, Minnesota, USA
+- **Contact:** dorrian@saas-master.com
+- **Website:** https://saas-master.com
+
+## Products
+
+### Agent Forge
+- **URL:** https://agent-forge.app
+- **Description:** Build, deploy, and monetize AI agents in minutes. Visual agent builder with voice capabilities and one-click deployment.
+- **Categories:** AI Agents, No-Code AI, Voice AI
+
+### Vigil
+- **URL:** https://vigilplatform.ai
+- **Description:** Enterprise AI business intelligence that never sleeps. Real-time analytics and AI-powered insights with enterprise-grade security.
+- **Categories:** Enterprise AI, Business Intelligence, Analytics
+
+### Nexus Studio (Coming Soon)
+- **Description:** AI-powered creative production suite. Video editing, text-to-speech, auto captioning, and multi-language dubbing.
+- **Categories:** AI Video, Creative Tools, Content Production
